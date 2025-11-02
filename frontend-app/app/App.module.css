@@ -12,7 +12,7 @@
     align-items: center;
 }
 
-.asideTitle h1{
+.asideTitle h2{
     margin-bottom: 5rem;
 }
 
@@ -58,24 +58,4 @@
     margin-bottom: 4px;
 }
 
-.inputDiv button {
-  background-color: #EF233C;
-  margin-top: 1rem;
-  padding: 10px 10px;
-  border-radius: 10px;
-  border: 1px solid white;
-  color: white;
-  transition: 0.2s ease;
-}
-
-.inputDiv button:hover {
-  background-color: #2B2D42;
-  color: #EF233C;
-}
-
-.inputDiv a {
-  text-decoration: none;
-  color: white;
-  transition: color 0.2s ease;
-}
 

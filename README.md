@@ -4,9 +4,8 @@ Este projeto é um sistema de gerenciamento de etapas na construção de aeronav
 
 A interface gráfica (GUI) foi desenvolvida utilizando React com o framework Next.js, proporcionando uma navegação fluida, rápida e responsiva.
 
----
-## ✅ Pré-requisitos
-- [📄 Clique aqui para baixar o relatório em PDF](./public/relatorio.pdf)
+- [📄 Clique aqui para baixar o relatório em PDF](https://raw.githubusercontent.com/VitorSerpa/AV2/main/Relatorio.pdf)
+
 
 ## ✅ Pré-requisitos
 
